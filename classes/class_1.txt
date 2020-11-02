@@ -1,0 +1,11 @@
+Class = Fork
+Attributes:
+material(string)
+isEngraved(boolean)
+forkProng(number)
+isClean(boolean)
+Methods:
+washFork(would reassign boolean value of isClean)
+breakOffProng(would change the number value of forkProng)
+carveFork(would reassign isEngraved boolean value to true)
+useFork(would also reassign boolean value of isClean)
