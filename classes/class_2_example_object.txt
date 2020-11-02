@@ -1,0 +1,11 @@
+Class = Menu Object = unosMenu
+Attributes:
+material('paper');
+itemsOnMenu(27);
+fontOfMenu('calibri')
+isDoubleSided(false)
+Methods:
+canLaminate(material = 'Plastic, laminated paper');
+addDish(itemsOnMenu = 28);
+changeFont(fontOfMenu = 'Georgia');
+canPrintback(isDoubleSided = true);
