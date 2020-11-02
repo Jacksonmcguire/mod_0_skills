@@ -1,0 +1,11 @@
+Class Fork, Instance/Object saladFork
+Attributes
+material('Aluminum');
+isEngraved(false);
+forkProng(3);
+isClean(false)
+Methods
+washFork(isClean = true)
+breakOffProng(forkProng = 2)
+carveFork(isEngraved = true)
+useFork(isClean = false)
