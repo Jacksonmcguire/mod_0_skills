@@ -1,0 +1,9 @@
+var food = 'Lettuce';
+var isDelicous = false;
+food = 'Burger';
+var num2 = 12;
+var num7 = 19;
+var quotient = num7 / num2
+var songs = ['Aint got no home', 'Christmas time', 'I cant think of any real songs'];
+songs.shift();
+food.length();
