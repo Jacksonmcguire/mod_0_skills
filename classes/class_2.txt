@@ -1,0 +1,11 @@
+Class = Menu
+Attributes:
+material(string);
+itemsOnMenu(number);
+fontOfMenu(string);
+isDoubleSided(boolean);
+Methods:
+canLaminate(would reassign material to 'plastic' if it were a paper menu to start off);
+addDish(would increment the itemsOnMenu number value);
+changeFont(would change the value of fontOfMenu string);
+canPrintBack(would reassign boolean value of isDoubleSided);
